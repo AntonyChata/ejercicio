@@ -22,7 +22,6 @@ df_scatter = pd.DataFrame(data_scatter)
 df_histogram = pd.DataFrame(data_histogram)
 df_boxplot = pd.DataFrame(data_boxplot)
 
-# Definir la aplicación Streamlit
 def main():
     st.title("Visualizaciones Interactivas")
 
